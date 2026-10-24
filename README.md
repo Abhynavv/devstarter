@@ -24,7 +24,7 @@ beginners can read, understand, and contribute to the codebase without learning 
 
 ## Screenshot
 
-![DevStarter screenshot placeholder](assets/screenshot-placeholder.svg)
+![DevStarter screenshot](assets/screenshot.png)
 
 ## Technologies used
 
@@ -90,9 +90,7 @@ devstarter/
 ## Contributing
 
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the full
-workflow, and pick an issue from the workshop backlog:
-
-- [Workshop issue backlog](workshop/ISSUE_BACKLOG.md)
+workflow, and pick an issue from the issue section on GitHub.
 
 ## How to run the manual tests
 

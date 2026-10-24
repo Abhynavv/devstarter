@@ -6,7 +6,7 @@ This guide walks you through the contribution workflow for DevStarter.
 
 ## 1. Find an issue and read its acceptance criteria
 
-Browse the [workshop issue backlog](workshop/ISSUE_BACKLOG.md) and pick an issue.
+Browse the Issues Section on GitHub and pick an issue.
 
 - Comment on the issue before starting, so maintainers know it is being worked on.
 - Read the acceptance criteria carefully.
