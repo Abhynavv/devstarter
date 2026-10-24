@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="DevStarter screenshot placeholder">
+  <rect width="800" height="450" fill="#f8fafc"></rect>
+  <rect x="40" y="40" width="720" height="370" rx="12" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"></rect>
+  <rect x="60" y="60" width="200" height="24" rx="6" fill="#2563eb"></rect>
+  <rect x="60" y="100" width="480" height="14" rx="7" fill="#e2e8f0"></rect>
+  <rect x="60" y="126" width="420" height="14" rx="7" fill="#e2e8f0"></rect>
+  <rect x="60" y="152" width="300" height="14" rx="7" fill="#e2e8f0"></rect>
+  <rect x="60" y="200" width="340" height="160" rx="12" fill="#eef4ff"></rect>
+  <rect x="420" y="200" width="320" height="70" rx="12" fill="#eef4ff"></rect>
+  <rect x="420" y="290" width="150" height="70" rx="12" fill="#eef4ff"></rect>
+  <text x="60" y="400" font-family="monospace" font-size="16" fill="#94a3b8">screenshot coming soon</text>
+</svg>
