@@ -18,14 +18,14 @@ Click the **Fork** button on the GitHub page.
 ## 3. Clone your fork
 
 ```bash
-git clone https://github.com/<your-username>/DevStarter.git
-cd DevStarter
+git clone https://github.com/<your-username>/<repo-name>.git
+cd <repo-name>
 ```
 
 Add the upstream repository:
 
 ```bash
-git remote add upstream https://github.com/<upstream-owner>/DevStarter.git
+git remote add upstream https://github.com/<upstream-owner>/<repo-name.git
 ```
 
 ## 4. Create a descriptive feature branch
