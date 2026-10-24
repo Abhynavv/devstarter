@@ -86,16 +86,7 @@ devstarter/
 ├── CONTRIBUTING.md
 └── LICENSE
 ```
-## Add a web accessibility learning resource to the library
 
-Add a beginner-friendly resource to help developers learn about web accessibility.
-
-- **Title:** Introduction to Web Accessibility
-- **Description:** Learn the fundamentals of web accessibility, including keyboard navigation, screen readers, alternative text, and inclusive web design.
-- **Category:** Web Development
-- **Resource URL:** https://www.w3.org/WAI/fundamentals/accessibility-intro/
-
-This resource helps developers understand how to build websites that are accessible to people with disabilities.
 
 ## Contributing
 
